@@ -48,6 +48,7 @@
     <DebugOptimize>Optimize</DebugOptimize>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Class1.dbl" />
     <Compile Include="Program.dbl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Synergex\dbl\Synergex.SynergyDE.Traditional.targets" />

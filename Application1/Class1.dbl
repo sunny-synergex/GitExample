@@ -1,0 +1,11 @@
+namespace Application1
+
+	public static class Class1
+		public static method Hello, string
+			endparams
+		proc
+			mreturn "Hello World!"
+		endmethod
+	endclass
+
+endnamespace
