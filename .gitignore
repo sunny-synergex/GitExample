@@ -1,0 +1,6 @@
+# Ignore the following directories or folders
+/Debug
+*.vs
+*.intellisense
+**/bin/
+**/obj/
