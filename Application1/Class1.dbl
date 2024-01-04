@@ -6,6 +6,12 @@ namespace Application1
 		proc
 			mreturn "Hello World!"
 		endmethod
+
+		public static method Hello2, string
+			endparams
+		proc
+			mreturn "Hello World 2!"
+		endmethod
 	endclass
 
 endnamespace
